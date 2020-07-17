@@ -1,0 +1,9 @@
+/*
+优先加载
+*/
+{
+  "pages": [
+    "pages/home/home",
+    "pages/about/about"
+  ]
+}
